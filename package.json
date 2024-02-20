@@ -1,0 +1,11 @@
+{
+  "name": "ocean-jornada-backend-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto com nodeJS para a jornada backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fred",
+  "license": "ISC"
+}
